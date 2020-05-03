@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>educación on Comunidad Nopalera</title>
+    <link>https://nopalera.github.io/categories/educaci%C3%B3n/</link>
+    <description>Recent content in educación on Comunidad Nopalera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Wed, 08 Apr 2020 23:21:23 -0500</lastBuildDate>
+    
+	<atom:link href="https://nopalera.github.io/categories/educaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compartir Experiencias</title>
+      <link>https://nopalera.github.io/posts/compartir-experiencias/</link>
+      <pubDate>Wed, 08 Apr 2020 23:21:23 -0500</pubDate>
+      
+      <guid>https://nopalera.github.io/posts/compartir-experiencias/</guid>
+      <description>Las figuras educativas nos comparten su experiencia a partir del trabajo que han realizado en Pilares o en Brigadas, qué imaginaban, cómo ha cambiado lo que pensaban que sería su labor.</description>
+    </item>
+    
+  </channel>
+</rss>
